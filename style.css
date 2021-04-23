@@ -1,3 +1,48 @@
 body{
     background-color: aqua;
 }
+
+header, footer{
+    background-color:  rgb(50,109,168);
+    border: black 4px solid;
+    margin-bottom: 20px;
+}
+
+title {
+    text-align: center;
+}
+h1 {
+    color: #035afc
+    text-align: center;
+}
+
+nav {
+    color:coral
+    text-align: center;
+}
+
+li {
+    border: black 4px solid;
+    display: inline;
+    background-color: #d0aae6;
+    padding: 5px 10px;
+    margin: 0px 20px;
+}
+
+article {
+    text-align: center;
+}
+
+footer > p {
+    color:cornflowerblue
+
+}
+
+#ptag_color {
+    color:thistle
+}
+
+article {
+    border: solid black 1px;
+    margin: 10px 0px;
+}
